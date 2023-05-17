@@ -1,0 +1,29 @@
+{
+	"info": {
+		"_postman_id": "d4ac39ec-0954-4f31-bbaa-3728070755d5",
+		"name": "Deploy1",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "26099444",
+		"_collection_link": "https://grey-eclipse-85596.postman.co/workspace/My-Workspace~86a21c66-3080-4d38-8c0b-baa024158f96/collection/26099444-d4ac39ec-0954-4f31-bbaa-3728070755d5?action=share&creator=26099444&source=collection_link"
+	},
+	"item": [
+		{
+			"name": "localhost:7070/",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:7070/",
+					"host": [
+						"localhost"
+					],
+					"port": "7070",
+					"path": [
+						""
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
